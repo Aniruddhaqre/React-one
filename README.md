@@ -1,4 +1,9 @@
 # React-one
 
+Responsive Website for a company 
+
+Technologies used : Reactjs, SCSS
+
 Last Updated: 09/07/2023
-Demo :  https://reactone-6e2l3ylsx-aniruddhaqre.vercel.app/?vercelToolbarCode=KujuQP__zvlWQTH
+
+Demo :  https://reactone-56vfkccpo-aniruddhaqre.vercel.app/
